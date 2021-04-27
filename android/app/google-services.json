@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1028681266298",
+    "project_id": "eb-bill-569c9",
+    "storage_bucket": "eb-bill-569c9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1028681266298:android:9b6f6ff99cef016e5d37c3",
+        "android_client_info": {
+          "package_name": "com.uzham.eb_bill"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1028681266298-po0doh0mquqdau0ntum8k3psofevtkvv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMDYTwUUivNs9Hl_YJzayAY0hNR4W_l3g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1028681266298-po0doh0mquqdau0ntum8k3psofevtkvv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
